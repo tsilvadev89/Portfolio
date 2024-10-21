@@ -1,96 +1,44 @@
-# **Thiago Carvalho Silva**
+### Terceiro Semestre (2023-2)
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/165035188?v=4" alt="Foto do Perfil" width="200" height="200" style="border-radius:50%;border:5px solid red;">
-</p>
-
-## **_Especialista Elétrico e Desenvolvedor em Transição_**
-
-### **Introdução**
-
-Sou **Thiago Carvalho Silva**, atualmente cursando o **5º semestre de Análise e Desenvolvimento de Sistemas** na **Fatec de São José dos Campos**. Iniciei minha carreira na **área elétrica**, com mais de 15 anos de experiência em **manutenção elétrica**, **automação industrial**, e **programação de sistemas embarcados**.
-
-Durante esse tempo, adquiri ampla experiência em **automação de sistemas industriais**, além de desenvolver habilidades em **controle e programação de sistemas embarcados**. Nos últimos anos, movido pela paixão por **programação**, decidi transitar para a **área de TI**, onde venho aplicando meus conhecimentos para resolver problemas e criar soluções inovadoras no campo de **desenvolvimento de software**.
-
-Atualmente, estou consolidando minha carreira na área de **TI** e busco integrar minhas experiências anteriores na área elétrica com as novas competências que adquiri em **programação e desenvolvimento de software**.
-
----
-
-## **Histórico Acadêmico e Profissional**
-- **Curso Aprendiz Industrial** - Eletricista de manutenção. SENAI
-- **Técnico eletroeletrônico.** - SENAI
-- **Engenheiro Elétrico** - UNIP. 
-- **Formação Acadêmica**: 5º semestre de **Análise e Desenvolvimento de Sistemas** na **Fatec de São José dos Campos**
-- **Experiência Profissional**: Mais de 15 anos na área de **manutenção elétrica** e **automação industrial**, além de experiência crescente em **desenvolvimento de software**
-
----
-
-## Contatos
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/thiago-silva-49bb74168) 
-[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/tsilvadev89) 
-[![Email](https://img.shields.io/badge/-Email-red)](mailto:tsilva.dev89@gmail.com)
-
----
-
-## Meus Principais Conhecimentos
-
-Atualmente, os conhecimentos que mais domino e utilizo em projetos estão organizados na tabela abaixo:
-
-| **Categoria**           | **Tecnologias**                                                                                                                                                                |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Linguagens de Programação** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat) |
-| **Front-end**            | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![MaterialUI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat) |
-| **Back-end**             | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) |
-| **Banco de Dados**       | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) |
-| **Ferramentas e Nuvem**  | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat) |
-| **Metodologias Ágeis**   | ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrum&logoColor=white&style=flat) ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?logo=kanban&logoColor=white&style=flat) |
-
----
-
-## Meus Projetos
-
-### Primeiro Semestre (2022-2)
-
-# Aplicação Web – Suporte e Ordem de Serviço de Laboratório de Informática da Fatec São José
+# Plataforma Web para Gestão de Processos Regulatórios
 
 ## Descrição do Projeto
-**Semestre:** Segundo Semestre – 2022-2  
-**Empresa Parceira:** Fatec São José dos Campos – Professor responsável: **[ANTONIO EGYDIO SAO THIAGO GRACA]**
+**Semestre:** Terceiro Semestre – 2023-2  
+**Empresa Parceira:** Fatec São José dos Campos – Professor responsável: **[EMPRESA IONIC]**
 
 ---
 
 ### ![Problem Icon](https://img.shields.io/badge/-Problema-E74C3C?style=flat&logo=issue-tracking&logoColor=white)
 
-A Fatec precisava de um sistema web para automatizar o processo de controle de ordens de serviço (SOS) relacionadas ao laboratório de informática. O desafio era automatizar o processo de identificação de defeitos em equipamentos (hardware e software) e oferecer ao cliente uma interface visual com um mapa de localização e legendas que indicassem o status de cada equipamento.
+A empresa IONIC precisava de uma plataforma web robusta para gerenciar processos regulatórios, permitindo que os usuários criassem processos personalizados com etapas definidas, responsáveis, prazos e evidências anexadas. O desafio incluía a criação de um sistema que fornecesse monitoramento em tempo real, relatórios de desempenho e notificações automáticas, além de garantir a responsividade e usabilidade da interface.
 
 ---
 
 ### ![Solution Icon](https://img.shields.io/badge/-Solução-27AE60?style=flat&logo=solution&logoColor=white)
 
-A equipe desenvolveu uma **aplicação web** usando **Flask** para o backend, **MySQL** como banco de dados, **HTML** e **CSS** para o frontend, e **Bootstrap** para tornar a interface responsiva. A aplicação permite que os usuários registrem defeitos, visualizem um mapa do laboratório com a localização dos equipamentos e façam atualizações de layout e nomenclatura dos computadores. O sistema é intuitivo, com uma interface limpa e funcional, projetada para evitar sobrecarga de informações.
+A equipe desenvolveu uma **plataforma web** utilizando **React com TypeScript** para o frontend e **Node.js** com **MySQL** para o backend. O design foi cuidadosamente planejado no **Figma** para garantir uma interface intuitiva e responsiva, seguindo boas práticas de **UI/UX design**. A aplicação permite que os usuários criem e acompanhem processos, anexem documentos, e gerem relatórios personalizados. Além disso, foi feita a **modelagem de banco de dados** para garantir a integridade dos dados e suportar o crescimento do sistema.
 
 ---
 
-### **Vídeo da Aplicação**
+### **Imagens do Sistema**
 #### **[Demonstração do projeto em execução]**
 
 <p align="center">
-  <p>
-    <img src="https://raw.githubusercontent.com/tsilvadev89/API1S/refs/heads/main/Imagens/API_3_Sprint_TerramEtVerum.gif" alt="Projeto20221S " width="800" height="400">
-  </p>
+  <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/home.png" alt="Página Principal" width="800" height="400">
+  <br>
+  <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/autentic.png" alt="Tela de Autenticação" width="800" height="400">
+  <br>
+  <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/processos.png" alt="Gerenciamento de Processos" width="800" height="400">
+  <br>
+  <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/task.png" alt="Tarefas" width="800" height="400">
+  <br>
+  <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/adminFinal.png" alt="Painel do Administrador" width="800" height="400">
 </p>
-
-#### **[Demonstração do projeto video hospedado no YouTube]**
-
-<a href="https://www.youtube.com/watch?v=wi2l6Axu2Rk" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square" alt="YouTube link">
-</a>
 
 ---
 
 ### **Link do Repositório Git**  
-<a href="https://github.com/seu-usuario/projeto-sos" target="_blank">
+<a href="https://github.com/seu-usuario/projeto-sistema" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub link">
 </a>
 
@@ -98,37 +46,41 @@ A equipe desenvolveu uma **aplicação web** usando **Flask** para o backend, **
 
 ### ![Tech Icon](https://img.shields.io/badge/-Tecnologias%20Utilizadas-3498DB?style=flat&logo=stackshare&logoColor=white)
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) **Python:** Utilizado para o backend com o framework Flask.
-- ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) **Flask:** Framework utilizado para o backend e gerenciamento de rotas.
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL:** Banco de dados relacional para armazenamento das informações das ordens de serviço e layout dos equipamentos.
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) **HTML5**: Estrutura das páginas web.
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) **CSS3**: Estilização das páginas web.
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat) **Bootstrap**: Framework para design responsivo.
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) **JavaScript**: Aplicado para criar interações dinâmicas no mapa de localização e na interface de controle.
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) **React com TypeScript:** Utilizado para o desenvolvimento do frontend com componentes dinâmicos e responsivos.
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js:** Backend com **Express** para criação de APIs RESTful e lógica de negócio.
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL:** Banco de dados relacional utilizado para armazenamento de informações sobre os processos.
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) **Figma:** Utilizado para prototipagem e design de interface seguindo princípios de **UI/UX design**.
+- ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat) **Express:** Framework para lidar com rotas e middleware no backend.
+- ![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=flat) **JWT:** Utilizado para autenticação segura dos usuários.
 
 ---
 
-
 ### ![Contribution Icon](https://img.shields.io/badge/-Contribuições%20Pessoais-F39C12?style=flat&logo=contribution&logoColor=white)
 
-Atuei como **Scrum Master**, coordenando as tarefas da equipe, garantindo que as sprints fossem concluídas no prazo, e facilitando as reuniões diárias. Além disso, participei ativamente do desenvolvimento, sendo responsável pela **implementação da funcionalidade de atualização de layout e nomenclatura dos equipamentos**. Utilizei **Flask** para o backend e **JavaScript** para implementar as interações do mapa.
+Atuei como **desenvolvedor**, contribuindo tanto para o frontend quanto para o backend. Minhas principais contribuições incluem:
+
+- Desenvolvimento do frontend utilizando **React com TypeScript**, criando componentes responsivos e interativos.
+- Implementação das APIs RESTful com **Node.js** e **Express** para o gerenciamento de processos e integração com o banco de dados **MySQL**.
+- Design de interface e prototipagem no **Figma**, seguindo boas práticas de **UI/UX**.
+- Implementação de autenticação segura com **JWT** e gerenciamento de sessão.
+- **Modelagem do banco de dados** em **MySQL** para garantir a integridade dos dados e a escalabilidade do sistema.
 
 ---
 
 ### ![Hard Skills Icon](https://img.shields.io/badge/-Hard%20Skills-2ECC71?style=flat&logo=skillshare&logoColor=white)
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) **Python**: Desenvolvi a lógica do backend para o gerenciamento das ordens de serviço e atualização de layout (uso com autonomia).
-- ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) **Flask**: Criação de rotas e gerenciamento das requisições no backend (uso com autonomia).
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL**: Implementação do banco de dados e das queries para o gerenciamento das ordens de serviço (uso com autonomia).
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) **HTML/CSS/Bootstrap**: Criei as páginas responsivas da interface (uso com autonomia).
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) **JavaScript**: Implementei a interatividade do mapa de localização (uso com autonomia).
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) **Git**: Controle de versão do projeto, criação de branches e pull requests (uso com autonomia).
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) **React com TypeScript**: Desenvolvimento da interface com foco em responsividade e usabilidade.
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js**: Implementação de APIs e lógica de backend utilizando **Express**.
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL**: Modelagem e gerenciamento do banco de dados para garantir a persistência dos dados.
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) **Figma**: Prototipagem e design de interface com foco em **UI/UX design**.
+- ![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=flat) **JWT**: Implementação de autenticação baseada em tokens.
 
 ---
 
 ### ![Soft Skills Icon](https://img.shields.io/badge/-Soft%20Skills-9B59B6?style=flat&logo=meetup&logoColor=white)
 
-- **Comunicação e Gestão de Equipe (Scrum Master):** Durante as reuniões de daily meeting, utilizei minhas habilidades de comunicação para garantir que todos os membros estivessem cientes das suas responsabilidades e dos prazos. Exemplo: durante uma sprint, sugeri mudanças no design da interface para melhorar a usabilidade do sistema, o que resultou em um aumento na clareza da disposição dos elementos da página.
-- **Resolução de Problemas:** Durante o desenvolvimento, identifiquei um problema na integração do mapa de localização com as funcionalidades de atualização do layout. Utilizei minha experiência em **JavaScript** para revisar o código e otimizar a renderização dos elementos, resolvendo o problema e melhorando a performance do sistema.
+- **Comunicação e Colaboração:** Trabalhei em conjunto com a equipe de design para garantir que os protótipos do **Figma** fossem implementados corretamente no desenvolvimento do frontend.
+- **Resolução de Problemas:** Identifiquei e corrigi problemas relacionados à autenticação com **JWT** e à integração das APIs RESTful com o frontend.
+- **Gestão do Tempo:** Participei do planejamento das sprints, garantindo a entrega dos componentes frontend e backend dentro dos prazos estabelecidos.
 
 ---

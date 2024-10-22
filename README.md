@@ -4,7 +4,7 @@
 
 ## Descrição do Projeto
 **Semestre:** Terceiro Semestre – 2023-2  
-**Empresa Parceira:** IONIC São José dos Campos – Professor responsável: **[Fernando Masanori]**
+**Empresa Parceira: [IONIC]** - Professor responsável: **[Fernando Masanori]**
 
 ---
 

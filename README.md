@@ -4,7 +4,7 @@
 
 ## Descrição do Projeto
 **Semestre:** Quarto Semestre – 2024-1  
-**Empresa Parceira:** Fatec São José dos Campos – Professor responsável: **[SIATT]**
+  **Empresa Parceira: [SIAT]** Professor responsável: **[Juliana Pasquini]**
 
 ---
 

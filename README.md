@@ -4,7 +4,7 @@
 
 ## Descrição do Projeto
 **Semestre:** Terceiro Semestre – 2023-2  
-**Empresa Parceira:** Fatec São José dos Campos – Professor responsável: **[EMPRESA IONIC]**
+**Empresa Parceira:** IONIC São José dos Campos – Professor responsável: **[Fernando Masanori]**
 
 ---
 

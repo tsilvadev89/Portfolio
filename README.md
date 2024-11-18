@@ -26,7 +26,7 @@ O **ClimaMonitor** é um aplicativo desenvolvido para dispositivos móveis utili
 #### **[Demonstração do projeto em execução]**
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="Tela Inicial do App" width="800" height="400">
+  <img src="https://raw.githubusercontent.com/tsilvadev89/Portfolio/refs/heads/API5S/img/API5S.jpg" alt="Projeto CLIMA MONITOR" width="800" height="400">
   <br>
 </p>
 

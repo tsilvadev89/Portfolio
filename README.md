@@ -4,20 +4,28 @@
 
 ## Descrição do Projeto
 **Semestre:** Terceiro Semestre – 2023-2  
-**Empresa Parceira: [IONIC]** - Professor responsável: **[Fernando Masanori]**
+**Empresa Parceira: [IONIC HEALTH]** 
+_A IONIC Health é uma empresa brasileira de inovação em saúde, especializada em automação e integração aplicada, com foco em imagens médicas, qualidade e eficiência no setor de saúde._
+**Professor responsável:** **[Fernando Masanori]**
 
 ---
 
 ### ![Problem Icon](https://img.shields.io/badge/-Problema-E74C3C?style=flat&logo=issue-tracking&logoColor=white)
 
-A empresa IONIC precisava de uma plataforma web robusta para gerenciar processos regulatórios, permitindo que os usuários criassem processos personalizados com etapas definidas, responsáveis, prazos e evidências anexadas. O desafio incluía a criação de um sistema que fornecesse monitoramento em tempo real, relatórios de desempenho e notificações automáticas, além de garantir a responsividade e usabilidade da interface.
+A empresa enfrentava dificuldade em acompanhar e organizar processos regulatórios de forma centralizada. Documentos frequentemente eram perdidos, prazos não cumpridos e a falta de relatórios dificultava a análise de desempenho. Além disso, não havia um sistema que permitisse personalização conforme os fluxos de trabalho específicos de cada equipe.
 
 ---
 
 ### ![Solution Icon](https://img.shields.io/badge/-Solução-27AE60?style=flat&logo=solution&logoColor=white)
 
-A equipe desenvolveu uma **plataforma web** utilizando **React com TypeScript** para o frontend e **Node.js** com **MySQL** para o backend. O design foi cuidadosamente planejado no **Figma** para garantir uma interface intuitiva e responsiva, seguindo boas práticas de **UI/UX design**. A aplicação permite que os usuários criem e acompanhem processos, anexem documentos, e gerem relatórios personalizados. Além disso, foi feita a **modelagem de banco de dados** para garantir a integridade dos dados e suportar o crescimento do sistema.
+Desenvolvemos uma **plataforma web** que resolve esses problemas com funcionalidades como:
 
+- Gerenciamento de processos com etapas personalizáveis.
+- Monitoramento em tempo real e relatórios automáticos.
+- Notificações para prazos e eventos importantes.
+- Interface responsiva planejada no **Figma**, garantindo usabilidade.
+
+Uma modelagem robusta em **MySQL** e a implementação de APIs RESTful em **Node.js** suportam a escalabilidade do sistema.
 ---
 
 ### **Imagens do Sistema**
@@ -26,13 +34,16 @@ A equipe desenvolveu uma **plataforma web** utilizando **React com TypeScript** 
 <p align="center">
   <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/home.png" alt="Página Principal" width="800" height="400">
   <br>
-  <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/autentic.png" alt="Tela de Autenticação" width="800" height="400">
-  <br>
-  <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/processos.png" alt="Gerenciamento de Processos" width="800" height="400">
-  <br>
-  <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/task.png" alt="Tarefas" width="800" height="400">
-  <br>
-  <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/adminFinal.png" alt="Painel do Administrador" width="800" height="400">
+  <details>
+    <summary> Demais imagens da aplicação </summary>
+    <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/autentic.png" alt="Tela de Autenticação" width="800" height="400">
+    <br>
+    <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/processos.png" alt="Gerenciamento de Processos" width="800" height="400">
+    <br>
+    <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/task.png" alt="Tarefas" width="800" height="400">
+    <br>
+    <img src="https://github.com/Equipe-FULLSTACK/API-3/raw/main/readme/adminFinal.png" alt="Painel do Administrador" width="800" height="400">
+  </details>
 </p>
 
 ---
@@ -69,18 +80,18 @@ Atuei como **desenvolvedor**, contribuindo tanto para o frontend quanto para o b
 
 ### ![Hard Skills Icon](https://img.shields.io/badge/-Hard%20Skills-2ECC71?style=flat&logo=skillshare&logoColor=white)
 
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) **React com TypeScript**: Desenvolvimento da interface com foco em responsividade e usabilidade.
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js**: Implementação de APIs e lógica de backend utilizando **Express**.
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL**: Modelagem e gerenciamento do banco de dados para garantir a persistência dos dados.
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) **Figma**: Prototipagem e design de interface com foco em **UI/UX design**.
-- ![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=flat) **JWT**: Implementação de autenticação baseada em tokens.
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) **React com TypeScript**: Desenvolvimento da interface com foco em responsividade e usabilidade. (Faço/uso com ajuda)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js**: Implementação de APIs e lógica de backend utilizando **Express**. (Faço/uso com ajuda)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) **MySQL**: Modelagem e gerenciamento do banco de dados para garantir a persistência dos dados. (Faço/uso com ajuda)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) **Figma**: Prototipagem e design de interface com foco em **UI/UX design**. (Faço/uso com autonomia)
+- ![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=flat) **JWT**: Implementação de autenticação baseada em tokens. (Faço/uso com ajuda)
 
 ---
 
 ### ![Soft Skills Icon](https://img.shields.io/badge/-Soft%20Skills-9B59B6?style=flat&logo=meetup&logoColor=white)
 
-- **Comunicação e Colaboração:** Trabalhei em conjunto com a equipe de design para garantir que os protótipos do **Figma** fossem implementados corretamente no desenvolvimento do frontend.
-- **Resolução de Problemas:** Identifiquei e corrigi problemas relacionados à autenticação com **JWT** e à integração das APIs RESTful com o frontend.
-- **Gestão do Tempo:** Participei do planejamento das sprints, garantindo a entrega dos componentes frontend e backend dentro dos prazos estabelecidos.
+- **Comunicação e Colaboração:** Trabalhei diretamente com a equipe de design para implementar protótipos planejados no **Figma** com fidelidade no desenvolvimento.
+- **Resolução de Problemas:** Corrigi problemas relacionados à autenticação com **JWT** e à integração das APIs RESTful com o frontend. Por exemplo, identifiquei e solucionei falhas em requisições de sessões expiradas em menos de 2 horas.
+- **Gestão do Tempo:** Realizei planejamento detalhado para entrega de componentes críticos durante as sprints, garantindo finalização dentro dos prazos estipulados.
 
 ---

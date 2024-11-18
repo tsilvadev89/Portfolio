@@ -11,7 +11,7 @@
 
 ### ![Problem Icon](https://img.shields.io/badge/-Problema-E74C3C?style=flat&logo=issue-tracking&logoColor=white)
 
-A Fatec precisava de um sistema web para automatizar o processo de controle de ordens de serviço (SOS) relacionadas ao laboratório de informática. O desafio era automatizar o processo de identificação de defeitos em equipamentos (hardware e software) e oferecer ao cliente uma interface visual com um mapa de localização e legendas que indicassem o status de cada equipamento.
+A Fatec precisava de um processo de controle de ordens de serviço do laboratório de informática da Fatec era manual e pouco eficiente, gerando atrasos no diagnóstico de defeitos em equipamentos. A falta de um sistema centralizado dificultava a comunicação entre os técnicos e o rastreamento do status dos reparos.
 
 ---
 
@@ -60,7 +60,7 @@ A equipe desenvolveu uma **aplicação web** usando **Flask** para o backend, **
 
 ### ![Contribution Icon](https://img.shields.io/badge/-Contribuições%20Pessoais-F39C12?style=flat&logo=contribution&logoColor=white)
 
-Atuei como **Scrum Master**, coordenando as tarefas da equipe, garantindo que as sprints fossem concluídas no prazo, e facilitando as reuniões diárias. Além disso, participei ativamente do desenvolvimento, sendo responsável pela **implementação da funcionalidade de atualização de layout e nomenclatura dos equipamentos**. Utilizei **Flask** para o backend e **JavaScript** para implementar as interações do mapa.
+Atuei como **Scrum Master**, coordenando as tarefas da equipe, garantindo que as sprints fossem concluídas no prazo, e facilitando as reuniões diárias. Implementei a funcionalidade de atualização dinâmica do layout do laboratório no mapa interativo, utilizando Flask para criar APIs que integrassem as alterações diretamente no banco de dados MySQL. Também desenvolvi as interações de front-end com JavaScript e CSS para garantir uma experiência fluida aos usuários.  
 
 ---
 
@@ -78,6 +78,6 @@ Atuei como **Scrum Master**, coordenando as tarefas da equipe, garantindo que as
 ### ![Soft Skills Icon](https://img.shields.io/badge/-Soft%20Skills-9B59B6?style=flat&logo=meetup&logoColor=white)
 
 - **Comunicação e Gestão de Equipe (Scrum Master):** Durante as reuniões de daily meeting, utilizei minhas habilidades de comunicação para garantir que todos os membros estivessem cientes das suas responsabilidades e dos prazos. Exemplo: durante uma sprint, sugeri mudanças no design da interface para melhorar a usabilidade do sistema, o que resultou em um aumento na clareza da disposição dos elementos da página.
-- **Resolução de Problemas:** Durante o desenvolvimento, identifiquei um problema na integração do mapa de localização com as funcionalidades de atualização do layout. Utilizei minha experiência em **JavaScript** para revisar o código e otimizar a renderização dos elementos, resolvendo o problema e melhorando a performance do sistema.
+- **Resolução de Problemas:** Durante uma daily meeting, foi identificado que a aplicação estava demorando a renderizar o mapa do laboratório devido à alta carga de requisições ao banco de dados. Propus e implementei a cache de dados usando Flask-Caching, reduzindo o tempo de carregamento em 40%.
 
 ---

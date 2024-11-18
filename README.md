@@ -49,7 +49,7 @@ Uma modelagem robusta em **MySQL** e a implementação de APIs RESTful em **Node
 ---
 
 ### **Link do Repositório Git**  
-<a href="https://github.com/seu-usuario/projeto-sistema" target="_blank">
+<a href="https://github.com/Equipe-FULLSTACK/API-3" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub link">
 </a>
 

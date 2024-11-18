@@ -33,7 +33,7 @@ O **ClimaMonitor** é um aplicativo desenvolvido para dispositivos móveis utili
 ---
 
 ### **Link do Repositório Git**  
-<a href="https://github.com/Equipe-Kersys/ClimaMonitor" target="_blank">
+<a href="https://github.com/FATEC-FULLSTACK/BACKEND-API5S" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub link">
 </a>
 

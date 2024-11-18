@@ -4,8 +4,10 @@
 
 ## Descrição do Projeto
 **Semestre:** Terceiro Semestre – 2023-2  
-**Empresa Parceira: [IONIC HEALTH]** 
-_A IONIC Health é uma empresa brasileira de inovação em saúde, especializada em automação e integração aplicada, com foco em imagens médicas, qualidade e eficiência no setor de saúde._
+
+**Empresa Parceira: [IONIC HEALTH]**  
+**Ramo de atuação:** *É uma empresa brasileira de inovação em saúde, especializada em automação e integração aplicada, com foco em imagens médicas, qualidade e eficiência no setor de saúde.*   
+
 **Professor responsável:** **[Fernando Masanori]**
 
 ---

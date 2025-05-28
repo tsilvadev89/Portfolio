@@ -42,7 +42,7 @@ A equipe desenvolveu uma **Plataforma de Treinamento de IA**, que permite:
 #### **[Demonstração do projeto em execução]**
 
 <p align="center">
-  <img src="https://github.com/FATEC-FULLSTACK/API6/blob/main/Anexos/img/fullstack.png" alt="Interface da Plataforma" width="800" height="400">
+  <img src="https://github.com/tsilvadev89/Portfolio/blob/API6S/img/RespostaLLMsAPI6s.jpg" alt="Interface da Plataforma" width="800" height="400">
   <br>
 </p>
 
@@ -98,6 +98,6 @@ Atuei como **desenvolvedor full stack**, com foco em backend e integração com 
 
 ### ![Video Icon](https://img.shields.io/badge/-Vídeo%20Tutorial-FF0000?style=flat&logo=youtube&logoColor=white)
 
-Um vídeo tutorial foi produzido para demonstrar o uso da plataforma por usuários com ou sem familiaridade técnica. [Acesse o vídeo aqui](https://www.youtube.com/watch?v=cXbXq8ZWd0A).
+Um vídeo tutorial foi produzido para demonstrar o uso da plataforma por usuários com ou sem familiaridade técnica. [Acesse o vídeo aqui](https://www.youtube.com/watch?v=C3ySkVufNRI).
 
 ---

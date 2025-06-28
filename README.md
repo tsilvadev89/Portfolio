@@ -18,6 +18,7 @@ Com a crescente adoção de modelos de linguagem (LLMs) em setores como saúde, 
 Entretanto, a simples integração de modelos genéricos não supre essa necessidade, visto que muitos desses LLMs apresentam limitações de veracidade, imparcialidade e naturalidade, impactando negativamente a credibilidade das análises geradas e a experiência do usuário final.
 
 Além disso, sem mecanismos estruturados de coleta de feedback humano, torna-se inviável realizar ajustes finos nos modelos por meio de técnicas como RLHF (Reinforcement Learning with Human Feedback), o que compromete a evolução contínua dessas soluções.
+
 ---
 
 ### ![Solution Icon](https://img.shields.io/badge/-Solução-27AE60?style=flat&logo=solution&logoColor=white)
@@ -30,16 +31,6 @@ A equipe desenvolveu uma **Plataforma de Treinamento de IA**, que permite:
 - Interface responsiva e acessível desenvolvida com Vue.js e prototipada no Figma.
 - Backend robusto em FastAPI, com Langchain e integração com banco vetorizado.
 
-> O projeto é baseado nos conhecimentos e tecnologias ensinados durante o semestre, incluindo:
-> - Spring Boot e Java
-> - Vue.js (SPA)
-> - Python com FastAPI
-> - Langchain
-> - MongoDB
-> - Conceitos de Machine Learning (CRISP, supervisionado/não supervisionado)
-> - Bibliotecas como TensorFlow/Keras e SKLearn
-
----
 
 ### **Imagens do Sistema**
 #### **[Demonstração do projeto em execução]**

@@ -13,8 +13,11 @@
 
 ### ![Problem Icon](https://img.shields.io/badge/-Problema-E74C3C?style=flat&logo=issue-tracking&logoColor=white)
 
-Com o crescimento do uso de Modelos de Linguagem (LLMs) em diversas áreas, há uma carência de plataformas centralizadas que permitam a comparação direta entre modelos e a avaliação humana estruturada das respostas. Isso limita o aprimoramento contínuo desses modelos em critérios como coerência, veracidade e naturalidade da linguagem.
+Com a crescente adoção de modelos de linguagem (LLMs) em setores como saúde, jurídico e análise de risco, empresas como a Dom Rock enfrentam o desafio de garantir que esses modelos entreguem respostas coerentes, confiáveis e adaptadas ao seu contexto de atuação.
 
+Entretanto, a simples integração de modelos genéricos não supre essa necessidade, visto que muitos desses LLMs apresentam limitações de veracidade, imparcialidade e naturalidade, impactando negativamente a credibilidade das análises geradas e a experiência do usuário final.
+
+Além disso, sem mecanismos estruturados de coleta de feedback humano, torna-se inviável realizar ajustes finos nos modelos por meio de técnicas como RLHF (Reinforcement Learning with Human Feedback), o que compromete a evolução contínua dessas soluções.
 ---
 
 ### ![Solution Icon](https://img.shields.io/badge/-Solução-27AE60?style=flat&logo=solution&logoColor=white)
@@ -90,10 +93,11 @@ Atuei como **desenvolvedor full stack**, com foco em backend e integração com 
 
 ### ![Soft Skills Icon](https://img.shields.io/badge/-Soft%20Skills-9B59B6?style=flat&logo=meetup&logoColor=white)
 
-- **Pensamento Crítico:** Analisei o comportamento dos LLMs sob critérios variados, propondo ajustes nos critérios de avaliação utilizados para balancear imparcialidade e naturalidade.
-- **Trabalho em Equipe:** Participei ativamente de todas as sprints, contribuindo com code reviews, testes e documentação para garantir a entrega contínua com base no SCRUM.
-- **Organização Técnica:** Estruturei rotas, componentes e banco de dados conforme boas práticas, reduzindo complexidade de manutenção futura.
-
+- **Pensamento Crítico:** Durante o desenvolvimento, fui responsável por avaliar criticamente a metodologia inicial de comparação entre respostas dos LLMs. Propus uma reformulação nos critérios de avaliação — que antes eram subjetivos — para indicadores objetivos baseados em rubricas, o que resultou em dados mais confiáveis e reutilizáveis para futuros retreinamentos dos modelos com RLHF.
+- **Resolução de Conflitos:** No momento em que a equipe se dividiu entre usar somente o modelo OpenAI ou permitir múltiplas opções, conduzi reuniões técnicas demonstrando, com dados e simulações, os benefícios de manter um pipeline modular de LLMs. Essa medida tornou o projeto multivariável no qual a resposta de cinco llms são processadas de forma sortida na qual a velocidade é primordial para exibição ao usuário final.
+- **Adaptabilidade:** Ao longo do projeto, enfrentamos limitações técnicas com a API de um dos LLMs escolhidos (limite de requisições e instabilidade). Rapidamente, adaptei o backend para suportar fallback automático entre modelos, sem necessidade de reescrita da lógica principal. Essa capacidade de adaptação garantiu a continuidade dos testes e a robustez da plataforma.
+- **Liderança:** Atuei como líder técnico no desenvolvimento backend, orientando colegas sobre integração de API REST e MongoDB, além de organizar as sprints usando princípios do SCRUM. Também assumi a responsabilidade de entregar a documentação técnica do backend em linha com boas práticas do mercado.
+- **Resiliência:** Em fases críticas do projeto, como na homologação do sistema e resolução de bugs intermitentes nas avaliações, mantive foco e consistência, mesmo sob pressão e prazos apertados. Essa resiliência contribuiu diretamente para a entrega final estável e funcional.
 ---
 
 ### ![Video Icon](https://img.shields.io/badge/-Vídeo%20Tutorial-FF0000?style=flat&logo=youtube&logoColor=white)
